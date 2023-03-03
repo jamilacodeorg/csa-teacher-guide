@@ -49,7 +49,7 @@ Implementing an objects-first approach to AP CSA helps students:
 * Practice software engineering skills.
 * Strengthen understanding of Java and object-oriented programming principles.
 
-<img align="left" src="../.gitbook/assets/image (1).png" alt="" />
+<img src="../.gitbook/assets/image (1).png" alt="" />
 
 How students perceive the world is an important consideration of any successful pedagogical approach, including a culturally responsive pedagogy. We believe that teaching students to design solutions using classes and objects fits more intuitively into a student's understanding of the world. With object-oriented programming principles, students can make connections between the concepts they are learning and the mental models and funds of knowledge they already have. Programming fundamentals such as conditionals, loops, and data structures are easily tied back to the idea of designing and expanding the functionality of an object. The curriculum is designed to guide students through understanding how programs are used to represent information that exists in the real world to develop solutions for problems they have or might encounter.
 
@@ -57,7 +57,7 @@ We believe that an objects-first approach is best supported with visual and inte
 
 This visual metaphor engages students while providing opportunities to solve interesting problems early in the curriculum. The use of The Neighborhood and The Theater helps students make connections between their own mental models for solving problems and the way solutions are implemented in Java. These tools support students in thinking in terms of classes and object behaviors while using both graphical and textual representations of problems and their solutions.8 We believe that presenting problems with visual metaphors and models makes object-oriented programming and design principles easier for beginning students to learn and helps students see the effects of their code to identify errors when the outcome is not what they expected.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image.png" alt="" />
 
 Strong programming skills require an understanding of the structure of a program within its paradigm. We believe students achieve greater success when learning Java as an object-oriented programming language early rather than attempting to shift the understanding of the language and program structure later. The imperatives-first approach is counterintuitive to the way programming is largely done by software engineers. Programs developed in Java use conditionals, loops, and data structures as tools to expand the capabilities of objects and the way these objects interact with each other to solve problems. The concepts and skills students learn in AP CSA should be practical and applicable beyond the classroom so that existing habits do not need to be unlearned to be successful in future opportunities.
 
